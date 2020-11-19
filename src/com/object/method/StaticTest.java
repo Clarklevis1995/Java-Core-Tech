@@ -1,4 +1,4 @@
-package 对象与类;
+package com.object.method;
 
 public class StaticTest {
     public static void main(String[] args) {
